@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+def multiply_str():
+    return None
+
+
 
 def main():
     pass
